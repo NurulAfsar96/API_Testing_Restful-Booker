@@ -78,7 +78,7 @@ GET
 **Body**
 
 ```
-
+N/A
 ```
 
 **Response**
@@ -117,7 +117,7 @@ GET
 **Body**
 
 ```
-
+N/A
 ```
 
 **Response**
@@ -386,6 +386,7 @@ Cookie:     token= "8a1bd58c78e379f"
 **Body**
 
 ```
+N/A
 ```
 
 **Response**
