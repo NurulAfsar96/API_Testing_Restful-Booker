@@ -1,0 +1,4 @@
+Run Report
+1) newman run PracticeProject.postman_collection.json -e PracticeProject_Env.postman_environment.json -r cli,html
+
+2) newman run PracticeProject.postman_collection.json -e PracticeProject_Env.postman_environment.json -r cli,htmlextra
